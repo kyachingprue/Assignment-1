@@ -1,0 +1,11 @@
+.banner-container{
+  width: 1440px;
+  margin: 0 auto;
+  border: 2px solid red;
+  min-height: 652px;
+}
+.banner-title{
+  width: 600px;
+  border: 2px solid black;
+  min-height: 300px;
+}
